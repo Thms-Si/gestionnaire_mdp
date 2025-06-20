@@ -52,23 +52,28 @@ Voici un aperçu du projet 📸 :
 
 ---
 
-## 📹 **Vidéo de teste**
+## 📹 **Vidéo de démonstration**
 
-Vidéo de démonstration 🎥 :  
+Démonstration 🎥 :  
 
 <table>
   <tr>
     <td>
-      <video width="400" height="400" controls>
-        <source src="image/video1.mp4" type="video/mp4">
-        Votre navigateur ne supporte pas la vidéo.
-      </video>
+      <a href="https://youtube.com/shorts/-SwLPRkY-Fo">
+        <img src="images/tp_1" width="400" />
+      </a>
     </td>
     <td>
-      <video width="400" height="400" controls>
-        <source src="image/video2.mp4" type="video/mp4">
-        Votre navigateur ne supporte pas la vidéo.
-      </video>
+      <a href="https://youtube.com/shorts/eJ-4S6ALcDo">
+        <img src="images/tp_2" width="400" />
+      </a>
+    </td>
+    <td>
+      <a href="https://youtube.com/shorts/n3cjihoxoFQ">
+        <img src="images/tp_3" width="400" />
+      </a>
     </td>
   </tr>
 </table>
+
+---
