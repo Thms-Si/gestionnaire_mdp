@@ -11,14 +11,9 @@ Bienvenue a toi, je te laisse d'écouvrir mon <strong>Gestionnaire de mot de pas
 ## 🗂️ **Table des matières**
 
 - 📖 [À propos](#-à-propos)
-- ⚙️ [Caractéristiques](#-caractéristiques)
+- 🔨 [Caractéristiques](#-caractéristiques)
 - 📸 [Aperçu](#-aperçu)
-- 📹 [Vidéo de présentation](#-vidéo-de-présentation)
-- 🛠️ [Installation](#-installation)
-- 🧰 [Matériel requis](#-matériel-requis)
-- 🚀 [Utilisation](#-utilisation)
-- 🤝 [Contribuer](#-contribuer)
-- 📄 [Licence](#-licence)
+- 📹 [Vidéo de présentation](#-vidéo-de-démonstration)
 
 ---
 
@@ -28,7 +23,7 @@ Bienvenue a toi, je te laisse d'écouvrir mon <strong>Gestionnaire de mot de pas
 
 ---
 
-## ⚙️ **Caractéristiques**
+## 🔨 **Caractéristiques**
 
 ✅ Protection par mot de passe au démarrage 🔑<BR>
 ✅ Auto-complétion du mot de passe par simple pression sur un bouton 🕹️<BR>
@@ -42,13 +37,14 @@ Bienvenue a toi, je te laisse d'écouvrir mon <strong>Gestionnaire de mot de pas
 ## 📸 **Aperçu**
 
 Voici un aperçu du projet 📸 :  
-
+<div align="center">
 <table>
   <tr>
     <td><img src="images/image_2.jpg" width="400" /></td>
     <td><img src="images/image_1.jpg" width="400" /></td>
   </tr>
 </table>
+</div>
 
 ---
 
@@ -56,6 +52,7 @@ Voici un aperçu du projet 📸 :
 
 Démonstration 🎥 :  
 
+<div align="center">
 <table>
   <tr>
     <td>
@@ -75,5 +72,6 @@ Démonstration 🎥 :
     </td>
   </tr>
 </table>
+</div>
 
 ---
