@@ -60,17 +60,17 @@ Démonstration 🎥 :
   <tr>
     <td>
       <a href="https://youtube.com/shorts/-SwLPRkY-Fo">
-        <img src="images/tp_1" width="400" />
+        <img src="images/tp_1.jpg" width="400" />
       </a>
     </td>
     <td>
       <a href="https://youtube.com/shorts/eJ-4S6ALcDo">
-        <img src="images/tp_2" width="400" />
+        <img src="images/tp_2.jpg" width="400" />
       </a>
     </td>
     <td>
       <a href="https://youtube.com/shorts/n3cjihoxoFQ">
-        <img src="images/tp_3" width="400" />
+        <img src="images/tp_3.jpg" width="400" />
       </a>
     </td>
   </tr>
