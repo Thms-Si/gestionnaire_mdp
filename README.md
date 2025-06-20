@@ -41,15 +41,34 @@ Bienvenue a toi, je te laisse d'écouvrir mon <strong>Gestionnaire de mot de pas
 
 ## 📸 **Aperçu**
 
-Voici un aperçu du projet:  
+Voici un aperçu du projet 📸 :  
 
-![Aperçu du projet](https://cdn.discordapp.com/attachments/874822246504493089/1385572953848283146/IMG_1214.jpg?ex=68568ede&is=68553d5e&hm=43148a5fb120c30bc614619e429de4d8e3602b967afca9b8db18aa7e86b878cc&)  
-
+<table>
+  <tr>
+    <td><img src="images/image_2.jpg" width="400" /></td>
+    <td><img src="images/image_1.jpg" width="400" /></td>
+  </tr>
+</table>
 
 ---
 
-## 📹 **Vidéo de présentation**
+## 📹 **Vidéo de teste**
 
-Regardez la vidéo de démonstration sur YouTube 🎥 :  
+Vidéo de démonstration 🎥 :  
 
-[![Regarder sur YouTube](https://img.youtube.com/vi/ID_DE_LA_VIDEO/maxresdefault.jpg)](https://www.youtube.com/watch?v=ID_DE_LA_VIDEO)  
+<table>
+  <tr>
+    <td>
+      <video width="400" height="400" controls>
+        <source src="image/video1.mp4" type="video/mp4">
+        Votre navigateur ne supporte pas la vidéo.
+      </video>
+    </td>
+    <td>
+      <video width="400" height="400" controls>
+        <source src="image/video2.mp4" type="video/mp4">
+        Votre navigateur ne supporte pas la vidéo.
+      </video>
+    </td>
+  </tr>
+</table>
