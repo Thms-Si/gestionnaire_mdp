@@ -2,9 +2,10 @@
 
 <h4 align="center">⚠️ Si vous souhaitez obtenir les différents codes du projet, contactez-moi ⚠️</h4>
 <BR>
+<div align="center">
 Bienvenue a toi, je te laisse d'écouvrir mon <strong>Gestionnaire de mot de passe physique</strong> ! 👨‍💻
 <BR>Ce dépôt contient tout ce dont vous avez besoin pour comprendre ce projet. 🧠
-
+</div>
 
 ---
 
